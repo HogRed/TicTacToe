@@ -1,4 +1,4 @@
 /.vs
 debug
 *.exe
-/TicTacApp/*.exe
+TicTacToe/TicTacApp/main.exe
